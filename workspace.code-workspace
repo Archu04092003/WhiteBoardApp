@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "Icons",
+			"path": "C:\\Users\\Archana\\Desktop\\ProjectNew\\WhiteBoardApp\\public\\Icons"
+			
+		},
+		{
+			"name": "whiteboardapp",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "whiteboardapp"
+	}
+}
